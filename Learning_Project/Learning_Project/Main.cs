@@ -7,6 +7,7 @@ namespace Learning_Project
 	{
 		public static void Main (string[] args)
 		{
+			//This is a test for the changelog functions.
 			Application.Init ();
 			MainWindow win = new MainWindow ();
 			win.Show ();
