@@ -13,9 +13,4 @@ public partial class MainWindow: Gtk.Window
 		Application.Quit ();
 		a.RetVal = true;
 	}
-
-	protected void buttonClick1 (object o, Gtk.ClientEventArgs args)
-	{
-		throw new NotImplementedException ();
-	}
 }
