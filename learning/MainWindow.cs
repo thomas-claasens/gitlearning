@@ -1,5 +1,9 @@
 using System;
 using Gtk;
+using CControl;
+
+namespace learning
+{
 
 public partial class MainWindow: Gtk.Window
 {	
@@ -14,8 +18,11 @@ public partial class MainWindow: Gtk.Window
 		a.RetVal = true;
 	}
 
-	protected void clicked (object sender, EventArgs e)
+
+	protected void onClicked (object sender, EventArgs e)
 	{
-		Console.WriteLine ("Clicked the button");
+
+
 	}
+}
 }

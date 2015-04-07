@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning", "learning.csproj", "{79C0564D-00E9-4AD1-AFE1-4CABA9D9BD11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CControl", "CControl\CControl.csproj", "{F119B522-133D-4D98-8FF9-98999516B39D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{79C0564D-00E9-4AD1-AFE1-4CABA9D9BD11}.Debug|x86.Build.0 = Debug|x86
 		{79C0564D-00E9-4AD1-AFE1-4CABA9D9BD11}.Release|x86.ActiveCfg = Release|x86
 		{79C0564D-00E9-4AD1-AFE1-4CABA9D9BD11}.Release|x86.Build.0 = Release|x86
+		{F119B522-133D-4D98-8FF9-98999516B39D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F119B522-133D-4D98-8FF9-98999516B39D}.Debug|x86.Build.0 = Debug|Any CPU
+		{F119B522-133D-4D98-8FF9-98999516B39D}.Release|x86.ActiveCfg = Release|Any CPU
+		{F119B522-133D-4D98-8FF9-98999516B39D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = learning.csproj
